@@ -43,6 +43,20 @@
   icon: fa-plus-square
 
 - name:
+      detail: FrameWork Techincal Draft
+      i18n: company_b
+    desc:
+      detail: Design Implementation of the Framework
+      i18n: company_b_desc
+    date:
+      detail: Mar. 2018
+      i18n: company_b_date
+    job:
+      detail: Information Security And Core FrameWork Tech Design
+      i18n: company_b_job
+    icon: fa-plus-square
+
+- name:
       detail: Whoo Hoo ...Coin Sale ...
       i18n: company_b
     desc:
