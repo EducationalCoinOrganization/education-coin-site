@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Flying Start
+    detail: Flying Start...
     i18n: EducationalCoin
   desc:
-    detail: EducationalCoin Running Start ...
+    detail: EducationalCoin KickOff ...
     i18n: company_a_desc
   date:
     detail: Jan. 2018
@@ -15,13 +15,13 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Formation of Core Team
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Work Started ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan. 2018
     i18n: company_b_date
   job:
     detail: Full Stack Developer
