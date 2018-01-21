@@ -29,15 +29,15 @@
   icon: fa-plus-square
 
 - name:
-      detail: Whoo Hoo ...Coin Sale ...
-      i18n: company_b
-    desc:
-      detail: Initial IPO Coin Sale Start...
-      i18n: company_b_desc
-    date:
-      detail: Feb. 2018
-      i18n: company_b_date
-    job:
-      detail: 1.3M Pre-Sale Announcement Sale
-      i18n: company_b_job
-    icon: fa-plus-square
+    detail: Formation of Core Team ...
+    i18n: company_b
+  desc:
+    detail: Work Started !!! Welcome To Coin World !!!
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2018
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developers
+    i18n: company_b_job
+  icon: fa-plus-square
