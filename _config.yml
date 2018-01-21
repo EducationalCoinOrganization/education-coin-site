@@ -10,7 +10,7 @@ url: https://educationalcoinorganization.github.io/education-coin-site  # url sh
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:James  # change following line to your infomation.
+author: James  # change following line to your infomation.
   name: James  # Be used at blog posts' author.
   first_name: James  # Be used at index page about me section.
   last_name: Crypt  # Be used at index page about me section.
