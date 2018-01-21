@@ -41,3 +41,31 @@
     detail: Design Discussion on the Core Product.
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Whoo Hoo ...Coin Sale ...
+    i18n: company_b
+  desc:
+    detail: EducationalCoin ICO
+    i18n: company_b_desc
+  date:
+    detail: Mar. 2018
+    i18n: company_b_date
+  job:
+    detail: Initial IPO Coin Sale Start...
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Hacking Starts..
+    i18n: company_b
+  desc:
+    detail: Devlopment Work Begins.
+    i18n: company_b_desc
+  date:
+    detail: APR. 2018
+    i18n: company_b_date
+  job:
+    detail: Making Hands Dirty....
+    i18n: company_b_job
+  icon: fa-plus-square
